@@ -1,0 +1,30 @@
+D:\ООП\OOP4\bin\Debug\OOP4.exe.config
+D:\ООП\OOP4\bin\Debug\OOP4.exe
+D:\ООП\OOP4\bin\Debug\OOP4.pdb
+D:\ООП\OOP4\obj\Debug\OOP4.csprojAssemblyReference.cache
+D:\ООП\OOP4\obj\Debug\OOP4.Form1.resources
+D:\ООП\OOP4\obj\Debug\OOP4.Properties.Resources.resources
+D:\ООП\OOP4\obj\Debug\OOP4.csproj.GenerateResource.cache
+D:\ООП\OOP4\obj\Debug\OOP4.csproj.CoreCompileInputs.cache
+D:\ООП\OOP4\obj\Debug\OOP4.exe
+D:\ООП\OOP4\obj\Debug\OOP4.pdb
+D:\ООП\OOP4 — копия\bin\Debug\OOP4.exe.config
+D:\ООП\OOP4 — копия\bin\Debug\OOP4.exe
+D:\ООП\OOP4 — копия\bin\Debug\OOP4.pdb
+D:\ООП\OOP4 — копия\obj\Debug\OOP4.csprojAssemblyReference.cache
+D:\ООП\OOP4 — копия\obj\Debug\OOP4.Form1.resources
+D:\ООП\OOP4 — копия\obj\Debug\OOP4.Properties.Resources.resources
+D:\ООП\OOP4 — копия\obj\Debug\OOP4.csproj.GenerateResource.cache
+D:\ООП\OOP4 — копия\obj\Debug\OOP4.csproj.CoreCompileInputs.cache
+D:\ООП\OOP4 — копия\obj\Debug\OOP4.exe
+D:\ООП\OOP4 — копия\obj\Debug\OOP4.pdb
+C:\Users\ssova\Desktop\ООП\ООП4\bin\Debug\OOP4.exe.config
+C:\Users\ssova\Desktop\ООП\ООП4\bin\Debug\OOP4.exe
+C:\Users\ssova\Desktop\ООП\ООП4\bin\Debug\OOP4.pdb
+C:\Users\ssova\Desktop\ООП\ООП4\obj\Debug\OOP4.csprojAssemblyReference.cache
+C:\Users\ssova\Desktop\ООП\ООП4\obj\Debug\OOP4.Form1.resources
+C:\Users\ssova\Desktop\ООП\ООП4\obj\Debug\OOP4.Properties.Resources.resources
+C:\Users\ssova\Desktop\ООП\ООП4\obj\Debug\OOP4.csproj.GenerateResource.cache
+C:\Users\ssova\Desktop\ООП\ООП4\obj\Debug\OOP4.csproj.CoreCompileInputs.cache
+C:\Users\ssova\Desktop\ООП\ООП4\obj\Debug\OOP4.exe
+C:\Users\ssova\Desktop\ООП\ООП4\obj\Debug\OOP4.pdb
